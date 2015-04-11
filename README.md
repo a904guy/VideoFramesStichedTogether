@@ -1,4 +1,4 @@
-# VideoFramesStichedTogether
+# VideoFramesStitchedTogether
 Python application using OpenCV and PIL to extract image frames and stitch them together.
 
 # Commnad Line Options
